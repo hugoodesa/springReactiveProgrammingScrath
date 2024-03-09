@@ -1,0 +1,10 @@
+INSERT INTO student (firstname, lastname, age) VALUES ('John', 'Doe', 20);
+INSERT INTO student (firstname, lastname, age) VALUES ('Jane', 'Smith', 22);
+INSERT INTO student (firstname, lastname, age) VALUES ('Alice', 'Johnson', 21);
+INSERT INTO student (firstname, lastname, age) VALUES ('Bob', 'Williams', 23);
+INSERT INTO student (firstname, lastname, age) VALUES ('Emily', 'Brown', 19);
+INSERT INTO student (firstname, lastname, age) VALUES ('Michael', 'Jones', 24);
+INSERT INTO student (firstname, lastname, age) VALUES ('Samantha', 'Davis', 20);
+INSERT INTO student (firstname, lastname, age) VALUES ('David', 'Martinez', 22);
+INSERT INTO student (firstname, lastname, age) VALUES ('Emma', 'Garcia', 21);
+INSERT INTO student (firstname, lastname, age) VALUES ('James', 'Taylor', 25);
